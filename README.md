@@ -19,7 +19,7 @@ cd ReactNative-starter
 ### 2️⃣ Install Dependencies 
 
 npm install
-# OR
+OR
 yarn install
 
 3️⃣ Start the Development Server
